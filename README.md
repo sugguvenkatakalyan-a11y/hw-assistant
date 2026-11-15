@@ -1,3 +1,4 @@
+![Hardware Assistant screenshot](image.png)
 # Local Linux Hardware Q&A Assistant
 
 Ask natural-language questions about your laptop's hardware ("Can I upgrade my RAM, and by how much?").
