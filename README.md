@@ -1,7 +1,7 @@
-![Hardware Assistant screenshot](image.png)
 # Local Linux Hardware Q&A Assistant
 
 Ask natural-language questions about your laptop's hardware ("Can I upgrade my RAM, and by how much?").
+![Hardware Assistant screenshot](image.png)
 The LLM never runs shell commands: it can only pick named tools, each tool runs a fixed command and returns parsed JSON,
 and answers are written only from that JSON. Missing data is reported as "I cannot determine this hardware detail from system data".
 
